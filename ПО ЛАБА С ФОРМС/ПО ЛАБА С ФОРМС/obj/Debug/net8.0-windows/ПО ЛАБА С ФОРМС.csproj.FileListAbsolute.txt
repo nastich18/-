@@ -1,0 +1,16 @@
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.csproj.GenerateResource.cache
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.AssemblyInfoInputs.cache
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.AssemblyInfo.cs
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.csproj.CoreCompileInputs.cache
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\bin\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.exe
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\bin\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.deps.json
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\bin\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.runtimeconfig.json
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\bin\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.dll
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\bin\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.pdb
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.dll
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\refint\ПО ЛАБА С ФОРМС.dll
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.pdb
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО ЛАБА С ФОРМС.genruntimeconfig.cache
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ref\ПО ЛАБА С ФОРМС.dll
+C:\Работы\VS\ПО ЛАБА С ФОРМС\ПО ЛАБА С ФОРМС\obj\Debug\net8.0-windows\ПО_ЛАБА_С_ФОРМС.Form1.resources
